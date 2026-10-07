@@ -6,6 +6,7 @@
       "name": "Eylül 2026",
       "note": "",
       "events": [
+        { "day": "25", "dow": "Paz", "cat": "hibe", "title": "FIRST International Team Support Grant son başvuru", "desc": "2026-2027 FRC sezonu için ihtiyaç bazlı takım destek hibesi. Başvuru son tarihi.", "time": "" }
         { "day": "24", "dow": "Per", "cat": "kayit", "title": "Kit & Kickoff kayıt başlangıcı", "desc": "1. etkinlik tercih dönemi de aynı gün açılıyor.", "time": "" }
       ]
     },
